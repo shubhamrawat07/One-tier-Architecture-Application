@@ -1,0 +1,4 @@
+Requirment for Linux based 1 Tier Architecture Application
+1. Linux OS
+2. Install Middleware -> ngnix webserver
+3. Get code from source (i.e. Github in this case) and use.
